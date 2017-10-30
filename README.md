@@ -3,9 +3,13 @@ Book Reference is a simple application made with VueJS and Firebase to store boo
 
 
 ## Installation
+
 1. Clone repo
+
 2.`cd Book-Reference`
+
 3. run `npm install` 
+
 4.`npm start`
 
 
