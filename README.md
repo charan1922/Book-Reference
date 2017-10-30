@@ -6,11 +6,11 @@ Book Reference is a simple application made with VueJS and Firebase to store boo
 
 1. Clone repo
 
-2.`cd Book-Reference`
+2. run `cd Book-Reference`
 
 3. run `npm install` 
 
-4.`npm start`
+4. run`npm start`
 
 
 
